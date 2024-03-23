@@ -19,7 +19,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue se enc
 
 ## Autores
 
-Este projeto foi desenvolvido por [Seu Nome](https://github.com/murilonicemento).
+Este projeto foi desenvolvido por [Murilo Nascimento](https://github.com/murilonicemento).
 
 ## Licença
 
